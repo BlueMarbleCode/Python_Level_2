@@ -1,36 +1,36 @@
 # Intermediate Python Curriculum - The Blue Marble Academy <br>
 
-Welcome to the Beginner Python Curriculum at The Blue Marble Academy! Over 20 hours, you will learn Python through fun, interactive projects. You'll create exciting games like Rock-Paper-Scissors, Hangman, and a Turtle Race while mastering key programming concepts.
+Welcome to the Intermediate Python Curriculum at The Blue Marble Academy! This curriculum is designed to build on foundational programming skills and apply them to game building. Over 30 hours, you will dive into more advanced Python concepts through hands-on, project-based learning. You'll create exciting games like Tic Tac Toe, Snake, and Zombie Attack, while exploring key programming principles in depth.
 
 # Curriculum Outline
 
-| **Session**           | **Content**                          |
-|-----------------------|--------------------------------------|
-| Session 1             | Introduction to Python               |
-|                       | `Lesson1 - Python Basics.py` |
-| Session 2             | Basic Concepts Check                 |
-|                       | `Checkpoint 1- Basic Concepts.py` |
-| Session 3             | If/Else Statements                   |
-|                       | `Lesson3 - Conditional Statements.py` |
-|                       | `Checkpoint 2- Conditionals.py` |
-| Session 4             | Lists                                |
-|                       | `Lesson4 - Lists.py` |
-| Session 5             | Data Types                           |
-|                       | `Lesson5 - Dictionaries and Sets.py` |
-|                       | `Checkpoint 3- Data.py`       |
-| Session 6             | Project 1: Rock, Paper, Scissors     |
-| Session 7             | Loops                                |
-|                       | `Lesson7 - Loops.py`         |
-| Session 8             | More Loops                           |
-|                       |`Lesson8 - Nested Loops.py`|
-|                       | `Checkpoint 4- Loops_Checkpoint.py` |
-| Session 9             | Functions                            |
-|                       | `Lesson 9- Functions.py` |
-| Sessions 10-13        | Project 2: Hangman                   |
-| Sessions 14-15        | Turtle Library                       |
-|                       | `Turtle1.py`     |
-|                       | `Turtle2.py` |
-| Sessions 16-20        | Project 3: Create your own project using Turtle |
-|                       | Example Project: Turtle Race (`Turtle_Race.py`) |
-
+| **Session**        | **Content**                                   |
+|--------------------|----------------------------------------------|
+| Session 1          | Beginner Program Review                      |
+|                    | `Review.py`    |
+| Session 2          | Beginner Program Review Continued            |
+|                    | `Review.py` |
+| Session 3          | Recursion                                     |
+|                    | `Lesson3 - Recursion.py`|
+| Session 4          | Pygame Basics and Event Handling             |
+|                    | `Lesson4.py`      |
+|                    | `Mario.png`      |
+| Session 5          | Pygame - Text, Mouse Clicks, and Drawing     |
+|                    | `Lesson5.py` |
+| Sessions 6-8       | Project 1: Tic Tac Toe                       |
+| Session 9          | Pygame - Movement and Sounds                 |
+|                    | `Lesson9.py`|
+|                    | `button_click.mp3`|
+| Session 10         | Pygame - Save and Loading                    |
+|                    | `Lesson10.py`    |
+| Session 11         | Pygame - Boundary Checking and Connecting Screens |
+|                    | `Lesson11.py` |
+|                    | `Lesson11_Screen2.py` |
+| Sessions 12-16     | Project 2: Snake Game                        |
+| Session 17         | Classes and Objects                          |
+|                    | `Lesson17.py` |
+| Session 18         | Sprites                                      |
+|                    | `Lesson18.py` |
+| Sessions 19-29     | Final Project                                |
+|                    | Create Your Own Game                         |
 
