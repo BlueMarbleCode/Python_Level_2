@@ -1,20 +1,36 @@
-# Python_Level_2
+# Intermediate Python Curriculum - The Blue Marble Academy <br>
 
-## Welcome to the Intermediate Python Curriculum!
+Welcome to the Beginner Python Curriculum at The Blue Marble Academy! Over 20 hours, you will learn Python through fun, interactive projects. You'll create exciting games like Rock-Paper-Scissors, Hangman, and a Turtle Race while mastering key programming concepts.
 
-## Over the next 30 hours, you will learn to build upon your foundational knowledge of programming skills and apply them in game building. Students will give into more advanced Pythonconcepts through hands-on project-based learning. Some of the games developed in this module are: Tic Tac Toe, Snake, and Zombie Attack.
+# Curriculum Outline
 
-| Session 1 : Lesson 1- Python Review |
-| Session 2 : Program and Topics Review: Review.py |
-| Session 3 : Lesson 2: Recursion.py |
-| Session 4 : Lesson 3: Pygame - Basics and Event hadnling |
-| Session 5 : Lesson 4: Pygame - Text, mouse clicks, drawling lines |
-| Session 6-8 : Project # 1 - Tic Tac Toe |
-| Session 9 : Lesson 5: Pygame - Movement and Sounds |
-| Session 10 : Lesson 6: Pygame - Save and loading |
-| Session 11 : Lesson 7: Pygame - Boundary Checking and Connecting Screens |
-| Session 12-16 : Project # 2 - Snake Game |
-| Session 17 : Lesson 8: Classes |
-| Session 18 : Lesson 9: Sprites |
-| Session 19-29 : Final Project: Zombie Attack |
-| Session 30 : Open/Review Slot |
+| **Session**           | **Content**                          |
+|-----------------------|--------------------------------------|
+| Session 1             | Introduction to Python               |
+|                       | `Lesson1 - Python Basics.py` |
+| Session 2             | Basic Concepts Check                 |
+|                       | `Checkpoint 1- Basic Concepts.py` |
+| Session 3             | If/Else Statements                   |
+|                       | `Lesson3 - Conditional Statements.py` |
+|                       | `Checkpoint 2- Conditionals.py` |
+| Session 4             | Lists                                |
+|                       | `Lesson4 - Lists.py` |
+| Session 5             | Data Types                           |
+|                       | `Lesson5 - Dictionaries and Sets.py` |
+|                       | `Checkpoint 3- Data.py`       |
+| Session 6             | Project 1: Rock, Paper, Scissors     |
+| Session 7             | Loops                                |
+|                       | `Lesson7 - Loops.py`         |
+| Session 8             | More Loops                           |
+|                       |`Lesson8 - Nested Loops.py`|
+|                       | `Checkpoint 4- Loops_Checkpoint.py` |
+| Session 9             | Functions                            |
+|                       | `Lesson 9- Functions.py` |
+| Sessions 10-13        | Project 2: Hangman                   |
+| Sessions 14-15        | Turtle Library                       |
+|                       | `Turtle1.py`     |
+|                       | `Turtle2.py` |
+| Sessions 16-20        | Project 3: Create your own project using Turtle |
+|                       | Example Project: Turtle Race (`Turtle_Race.py`) |
+
+
